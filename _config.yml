@@ -92,7 +92,7 @@ footer-links-active:
   spotify: false
   telephone: false
   steam: false
-  twitch: false
+  twitch: true
   yelp: false
 
 # Select which share links to show in posts
