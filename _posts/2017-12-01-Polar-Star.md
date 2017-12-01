@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post
-subtitle: Final words of BB.
+title: Final words of BB.
+subtitle: Edward Teach
 ---
 Damnation sieze my sowl if ai giv u quarrter or take eny fromm u.
