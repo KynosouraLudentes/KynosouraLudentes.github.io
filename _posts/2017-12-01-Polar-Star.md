@@ -1,6 +1,6 @@
 ---
 layout: post
 title: Post
-subtitle: Each post also has a subtitle
+subtitle: Final words of BB.
 ---
 Damnation sieze my sowl if ai giv u quarrter or take eny fromm u.
